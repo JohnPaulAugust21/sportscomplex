@@ -1,0 +1,27 @@
+COMP 20163: Web Development
+
+Sports Complex Management System
+
+Group 5
+Neil John D. Icaro
+Aljon Luzon
+John Paul August B. Maldo
+Rafael Regaspi III
+
+BSIT 3-3
+
+
+Database: db_sportscomplex.sql
+
+
+To run the system,
+http://localhost/sportscomplex/index.php
+
+
+To access the admin, 
+Username: admin
+Password: admin	
+
+To access the member,
+Username: createaccount
+Password: createaccount
